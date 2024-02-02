@@ -1,0 +1,32 @@
+C:\Users\agurh\Desktop\Data Structures And Algorithms in C#\Project\AVL Tree\AVL_Tree_Solution\ConsoleApp1\bin\Debug\net5.0\AVLvsBST.exe
+C:\Users\agurh\Desktop\Data Structures And Algorithms in C#\Project\AVL Tree\AVL_Tree_Solution\ConsoleApp1\bin\Debug\net5.0\AVLvsBST.deps.json
+C:\Users\agurh\Desktop\Data Structures And Algorithms in C#\Project\AVL Tree\AVL_Tree_Solution\ConsoleApp1\bin\Debug\net5.0\AVLvsBST.runtimeconfig.json
+C:\Users\agurh\Desktop\Data Structures And Algorithms in C#\Project\AVL Tree\AVL_Tree_Solution\ConsoleApp1\bin\Debug\net5.0\AVLvsBST.runtimeconfig.dev.json
+C:\Users\agurh\Desktop\Data Structures And Algorithms in C#\Project\AVL Tree\AVL_Tree_Solution\ConsoleApp1\bin\Debug\net5.0\AVLvsBST.dll
+C:\Users\agurh\Desktop\Data Structures And Algorithms in C#\Project\AVL Tree\AVL_Tree_Solution\ConsoleApp1\bin\Debug\net5.0\ref\AVLvsBST.dll
+C:\Users\agurh\Desktop\Data Structures And Algorithms in C#\Project\AVL Tree\AVL_Tree_Solution\ConsoleApp1\bin\Debug\net5.0\AVLvsBST.pdb
+C:\Users\agurh\Desktop\Data Structures And Algorithms in C#\Project\AVL Tree\AVL_Tree_Solution\ConsoleApp1\obj\Debug\net5.0\AVLvsBST.csproj.AssemblyReference.cache
+C:\Users\agurh\Desktop\Data Structures And Algorithms in C#\Project\AVL Tree\AVL_Tree_Solution\ConsoleApp1\obj\Debug\net5.0\AVLvsBST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agurh\Desktop\Data Structures And Algorithms in C#\Project\AVL Tree\AVL_Tree_Solution\ConsoleApp1\obj\Debug\net5.0\AVLvsBST.AssemblyInfoInputs.cache
+C:\Users\agurh\Desktop\Data Structures And Algorithms in C#\Project\AVL Tree\AVL_Tree_Solution\ConsoleApp1\obj\Debug\net5.0\AVLvsBST.AssemblyInfo.cs
+C:\Users\agurh\Desktop\Data Structures And Algorithms in C#\Project\AVL Tree\AVL_Tree_Solution\ConsoleApp1\obj\Debug\net5.0\AVLvsBST.csproj.CoreCompileInputs.cache
+C:\Users\agurh\Desktop\Data Structures And Algorithms in C#\Project\AVL Tree\AVL_Tree_Solution\ConsoleApp1\obj\Debug\net5.0\AVLvsBST.dll
+C:\Users\agurh\Desktop\Data Structures And Algorithms in C#\Project\AVL Tree\AVL_Tree_Solution\ConsoleApp1\obj\Debug\net5.0\ref\AVLvsBST.dll
+C:\Users\agurh\Desktop\Data Structures And Algorithms in C#\Project\AVL Tree\AVL_Tree_Solution\ConsoleApp1\obj\Debug\net5.0\AVLvsBST.pdb
+C:\Users\agurh\Desktop\Data Structures And Algorithms in C#\Project\AVL Tree\AVL_Tree_Solution\ConsoleApp1\obj\Debug\net5.0\AVLvsBST.genruntimeconfig.cache
+C:\Users\agurh\Desktop\Data Structures And Algorithms in C#\Project\AVL Tree\AVL_Tree_Solution - Copy\ConsoleApp1\bin\Debug\net5.0\AVLvsBST.exe
+C:\Users\agurh\Desktop\Data Structures And Algorithms in C#\Project\AVL Tree\AVL_Tree_Solution - Copy\ConsoleApp1\bin\Debug\net5.0\AVLvsBST.deps.json
+C:\Users\agurh\Desktop\Data Structures And Algorithms in C#\Project\AVL Tree\AVL_Tree_Solution - Copy\ConsoleApp1\bin\Debug\net5.0\AVLvsBST.runtimeconfig.json
+C:\Users\agurh\Desktop\Data Structures And Algorithms in C#\Project\AVL Tree\AVL_Tree_Solution - Copy\ConsoleApp1\bin\Debug\net5.0\AVLvsBST.runtimeconfig.dev.json
+C:\Users\agurh\Desktop\Data Structures And Algorithms in C#\Project\AVL Tree\AVL_Tree_Solution - Copy\ConsoleApp1\bin\Debug\net5.0\AVLvsBST.dll
+C:\Users\agurh\Desktop\Data Structures And Algorithms in C#\Project\AVL Tree\AVL_Tree_Solution - Copy\ConsoleApp1\bin\Debug\net5.0\ref\AVLvsBST.dll
+C:\Users\agurh\Desktop\Data Structures And Algorithms in C#\Project\AVL Tree\AVL_Tree_Solution - Copy\ConsoleApp1\bin\Debug\net5.0\AVLvsBST.pdb
+C:\Users\agurh\Desktop\Data Structures And Algorithms in C#\Project\AVL Tree\AVL_Tree_Solution - Copy\ConsoleApp1\obj\Debug\net5.0\AVLvsBST.csproj.AssemblyReference.cache
+C:\Users\agurh\Desktop\Data Structures And Algorithms in C#\Project\AVL Tree\AVL_Tree_Solution - Copy\ConsoleApp1\obj\Debug\net5.0\AVLvsBST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agurh\Desktop\Data Structures And Algorithms in C#\Project\AVL Tree\AVL_Tree_Solution - Copy\ConsoleApp1\obj\Debug\net5.0\AVLvsBST.AssemblyInfoInputs.cache
+C:\Users\agurh\Desktop\Data Structures And Algorithms in C#\Project\AVL Tree\AVL_Tree_Solution - Copy\ConsoleApp1\obj\Debug\net5.0\AVLvsBST.AssemblyInfo.cs
+C:\Users\agurh\Desktop\Data Structures And Algorithms in C#\Project\AVL Tree\AVL_Tree_Solution - Copy\ConsoleApp1\obj\Debug\net5.0\AVLvsBST.csproj.CoreCompileInputs.cache
+C:\Users\agurh\Desktop\Data Structures And Algorithms in C#\Project\AVL Tree\AVL_Tree_Solution - Copy\ConsoleApp1\obj\Debug\net5.0\AVLvsBST.dll
+C:\Users\agurh\Desktop\Data Structures And Algorithms in C#\Project\AVL Tree\AVL_Tree_Solution - Copy\ConsoleApp1\obj\Debug\net5.0\ref\AVLvsBST.dll
+C:\Users\agurh\Desktop\Data Structures And Algorithms in C#\Project\AVL Tree\AVL_Tree_Solution - Copy\ConsoleApp1\obj\Debug\net5.0\AVLvsBST.pdb
+C:\Users\agurh\Desktop\Data Structures And Algorithms in C#\Project\AVL Tree\AVL_Tree_Solution - Copy\ConsoleApp1\obj\Debug\net5.0\AVLvsBST.genruntimeconfig.cache
